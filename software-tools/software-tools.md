@@ -5,6 +5,7 @@
 
 ## IDEs
 - [Android Studio](https://developer.android.com/sdk/installing/studio.html)
+
 ## Debuggers
 
 ## Command Line Tools
