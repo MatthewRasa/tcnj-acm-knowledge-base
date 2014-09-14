@@ -4,6 +4,7 @@
 - [Sublime Text 2](https://www.sublimetext.com/)
 - [Brackets](http://brackets.io/?lang=en)
 - [Coda](http://panic.com/coda/)
+- [Vim](http://www.vim.org/)
 
 ## IDEs
 - [Android Studio](https://developer.android.com/sdk/installing/studio.html)
