@@ -2,7 +2,8 @@
 
 ## Text Editors
 - [Sublime Text 2](https://www.sublimetext.com/)
-- [Brackets]
+- [Brackets](http://brackets.io/?lang=en)
+- [Coda](http://panic.com/coda/)
 
 ## IDEs
 - [Android Studio](https://developer.android.com/sdk/installing/studio.html)
