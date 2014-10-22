@@ -6,6 +6,9 @@
     - reSRC is a compilation of links to free programming resources around the web
     - Check out their [list of free programming books](http://resrc.io/list/10/list-of-free-programming-books/)
 
+- [More Free Programming Books](https://free-programming-books.zeef.com/victor.felder)
+    - Contains resources on theoretical concepts as well as specific languages and skills
+
 - [Coursera.org](https://www.coursera.org/courses?orderby=upcoming&cats=cs-programming,cs-ai,cs-systems,cs-theory)
     - Coursera is a learning platform that partners up with top universities and orgs to offer courses in a variety of topics.
     - Coursera courses are free to take and available to anyone. Check out their CS courses (listed in the link)
