@@ -24,6 +24,8 @@
 - [Try Github, learn in 15 minutes](https://try.github.io/levels/1/challenges/1)
     - Learn Git in 15 minutes. Enough said....
 
+- [Google's suggested track and resources for technical development](http://www.google.com/edu/tools-and-solutions/guide-for-technical-development/index.html)
+    - Having a solid foundation in Computer Science is important in being a successful Software Engineer. This guide is a          suggested path for University students to develop their technical skills academically and non-academically through self       paced hands-on learning.
 
 
 
