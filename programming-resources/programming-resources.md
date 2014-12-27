@@ -27,7 +27,7 @@
 - [Google's suggested track and resources for technical development](http://www.google.com/edu/tools-and-solutions/guide-for-technical-development/index.html)
     - Having a solid foundation in Computer Science is important in being a successful Software Engineer. This guide is a          suggested path for University students to develop their technical skills academically and non-academically through self       paced hands-on learning.
 
--[Even more free programming books](https://www.dev-list.com/books/freebooks)
+- [Even more free programming books](https://www.dev-list.com/books/freebooks)
     - Programming books on UI/UX, databases, testing, command line tools, web dev, and some theoretical topics.
 
 
