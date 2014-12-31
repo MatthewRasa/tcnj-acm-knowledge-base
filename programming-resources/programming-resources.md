@@ -30,5 +30,6 @@
 - [Even more free programming books](https://www.dev-list.com/books/freebooks)
     - Programming books on UI/UX, databases, testing, command line tools, web dev, and some theoretical topics.
 
-
+- [Deep/Machine Learning Resources] (http://jmozah.github.io/links/)
+    - growing list of machine learning resources for beginners
 
