@@ -1,13 +1,12 @@
-# Programming Resources
+# Learning Resources
 
-## General Programming Resources
-- [StackOverflow](http://stackoverflow.com/)
-- [Hackr.io](http://hackr.io/)
-- [reSRC.io](http://resrc.io/)
-    - reSRC is a compilation of links to free programming resources around the web
-    - Check out their [list of free programming books](http://resrc.io/list/10/list-of-free-programming-books/)
 
-- [More Free Programming Books](https://free-programming-books.zeef.com/victor.felder)
+- [ACM Learning Center](http://learning.acm.org/courses/index.cfm)
+    - ACM's center for learning for its members.
+
+- [reSRC.io](http://resrc.io/list/10/list-of-free-programming-books/)
+
+- [Zeef.com](https://free-programming-books.zeef.com/victor.felder)
     - Contains resources on theoretical concepts as well as specific languages and skills
 
 - [Coursera.org](https://www.coursera.org/courses?orderby=upcoming&cats=cs-programming,cs-ai,cs-systems,cs-theory)
@@ -25,12 +24,16 @@
 - [Try Github, learn in 15 minutes](https://try.github.io/levels/1/challenges/1)
     - Learn Git in 15 minutes. Enough said....
 
-- [Google's suggested track and resources for technical development](http://www.google.com/edu/tools-and-solutions/guide-for-technical-development/index.html)
-    - Having a solid foundation in Computer Science is important in being a successful Software Engineer. This guide is a          suggested path for University students to develop their technical skills academically and non-academically through self       paced hands-on learning.
-
-- [Even more free programming books](https://www.dev-list.com/books/freebooks)
+- [dev-list.com](https://www.dev-list.com/books/freebooks)
     - Programming books on UI/UX, databases, testing, command line tools, web dev, and some theoretical topics.
 
-- [Deep/Machine Learning Resources] (http://jmozah.github.io/links/)
-    - growing list of machine learning resources for beginners
+- [Deep/Machine Learning Resources](http://jmozah.github.io/links/)
+    - Growing list of machine learning resources for beginners
 
+- [Even more free education web sites](http://iheartintelligence.com/2014/01/18/beat-the-system-40-free-educational-websites/)
+
+- [Udemy.com](https://www.udemy.com/)
+    - Many for pay courses, but contains a few free courses for beginners.
+
+- [Udacity.com](https://www.udacity.com/)
+    - Very large selection of free courses from beginner to expert level.

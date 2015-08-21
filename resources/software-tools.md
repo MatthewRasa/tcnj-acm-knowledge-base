@@ -11,9 +11,13 @@
 - [Android Studio](https://developer.android.com/sdk/installing/studio.html)
 - [IntelliJ](http://www.jetbrains.com/idea/)
 - [Eclipse OSS!](https://www.eclipse.org/)
+- [IDLE (Python IDE)](https://www.python.org/downloads/)
 
 ## Debuggers
 - [GDB](http://www.gnu.org/software/gdb/)
 
 ## Command Line Tools
 - [Cmder OSS! (Windows nix console emulator)](http://gooseberrycreative.com/cmder/)
+
+## Virtualization
+- [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
