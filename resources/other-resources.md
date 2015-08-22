@@ -1,6 +1,5 @@
-# Programming Resources
+# Other Resources
 
-## General Programming Resources
 - [StackOverflow](http://stackoverflow.com/)
 - [Hackr.io](http://hackr.io/)
 - [reSRC.io](http://resrc.io/)
@@ -12,13 +11,13 @@
 
 - [CompTIA](http://www.comptia.org/)
     - Industry neutral and widely accepted and accredited certification company.
-    
+
 - [Hack This Site](http://www.hackthissite.org/pages/index/index.php)
     - Website where you can attempt to penetrate it and you will gain recognition and gratitude for doing it!
-    
+
 - [Keyboard press walkthrough](https://github.com/alex/what-happens-when)
     - Detailed walkthrough of what happens when a key is pressed all the way to showing something on your screen.
-    
+
 - [Hackathon Listing](https://github.com/japacible/Hackathon-Calendar)
     - Not all are sponsored by MLH.
     - Hackathons are a great way to immerse yourself in computer science and meet friendly people!
