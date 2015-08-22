@@ -1,10 +1,7 @@
-# Learning Resources
-
+# Educational Resources
 
 - [ACM Learning Center](http://learning.acm.org/courses/index.cfm)
     - ACM's center for learning for its members.
-
-- [reSRC.io](http://resrc.io/list/10/list-of-free-programming-books/)
 
 - [Zeef.com](https://free-programming-books.zeef.com/victor.felder)
     - Contains resources on theoretical concepts as well as specific languages and skills
@@ -18,8 +15,8 @@
     - Check out their computer science section =)
 
 - [codecademy.com](http://www.codecademy.com/learn)
-    - A learning platform that offers simple, yet effiective tutorials on a handful of programming languages, for free. 
-    - Good for learning PHP, HTML, JS. 
+    - A learning platform that offers simple, yet effiective tutorials on a handful of programming languages, for free.
+    - Good for learning PHP, HTML, JS.
 
 - [Try Github, learn in 15 minutes](https://try.github.io/levels/1/challenges/1)
     - Learn Git in 15 minutes. Enough said....
