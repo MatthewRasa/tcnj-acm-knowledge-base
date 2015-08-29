@@ -23,7 +23,7 @@ III.Plans for future meetings and activities</br>
 &nbsp;&nbsp;&nbsp;&nbsp;b.	Unix fundamentals</br>
 &nbsp;&nbsp;&nbsp;&nbsp;c.	Open Source</br>
 IV.	Computer Science Department Ice Cream Social</br>
-&nbsp;&nbsp;&nbsp;&nbsp;a.	September 9th from 1:30-3:00 outside of Green Hall</br>
+&nbsp;&nbsp;&nbsp;&nbsp;a.	September 9th from 1:30-3:00 by the fountain in the Science Complex</br>
 &nbsp;&nbsp;&nbsp;&nbsp;b.	Will be a water balloon toss, Frisbees, and other outdoor activities</br>
 &nbsp;&nbsp;&nbsp;&nbsp;c.	You may bring your own activities and sporting equipment</br>
 V.	Icebreakers and member introductions
