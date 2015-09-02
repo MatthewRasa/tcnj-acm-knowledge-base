@@ -1,4 +1,2 @@
-# Tutorials
-
-* *[Java Swing](https://github.com/MatthewRasa/SwingTutorial)* by [Matt Rasa](https://github.com/MatthewRasa)
-* *[Multi-threading in Java](https://github.com/MatthewRasa/Multi-threadingTutorial)* by [Matt Rasa](https://github.com/MatthewRasa)
+# Meeting Materials
+In this directory you will find agendas, notes, source code, and more information about each of our weekly meetings. You can use these materials to catch up if you missed a meeting, to refer to during meetings, or to reference later on if you want to re-read tutorials.
