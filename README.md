@@ -2,16 +2,13 @@
 
 Welcome to the TCNJ ACM Knowledge Base, where you can find resources on programming, tech news, and materials covered during ACM meetings!
 
-This semester, meetings will be held every **Wednesday from 2:30 to 3:30** in **Forcina 408 or the CS Student Lounge** on the fourth floor of Forcina.
+This semester, meetings will be held every **Wednesday from 2:30 to 3:30** in **Forcina 408 or the CS Student Lounge** on the fourth floor of Forcina (unless otherwise stated below).
 
 ## This Week's Meeting
 
-The first meeting of the school year will be held on **Wednesday, September 2 in Forcina 408**.
+The CS department ice cream social (hosted by ACM, WiCS, and UPE) will be this **Wednesday, September 9 from 1:30 PM - 3:00 PM** at the **Science Complex fountain area**.
 
-We will provide an overview of ACM with an introduction to some commonly used tech terms, and get to know all of the new and existing members with an icebreaker. Best of all, **pizza will be provided**!
-
-See the complete agenda [here](https://github.com/tcnj-acm/tcnj-acm-knowledge-base/blob/master/meeting-materials/agenda-9-2-15.md).
-
+Since this intersects with our 2:30 PM meeting time, we won't be holding a formal meeting this week. See you all at the Science Complex!
 
 ## Contributions
 
