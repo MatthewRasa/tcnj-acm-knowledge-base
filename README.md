@@ -10,6 +10,15 @@ The CS department ice cream social (hosted by ACM, WiCS, and UPE) will be this *
 
 Since this intersects with our 2:30 PM meeting time, we won't be holding a formal meeting this week. See you all at the Science Complex!
 
+## Future Meetings
+
+### September 23 - TBD
+
+### September 30 - Guest Speaker: Daniel Domen
+*TCNJ Alumni, Adjunct CS Faculty, and Software Engineer at Ericsson*
+
+Professor Domen will be speaking about his experiences in industry, what he did wrong and right, and how learning in the classroom id different from learning in industry.
+
 ## Contributions
 
 If you know of any good resources, contribute to the repo!
