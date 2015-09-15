@@ -6,9 +6,7 @@ This semester, meetings will be held every **Wednesday from 2:30 to 3:30** in **
 
 ## This Week's Meeting
 
-The CS department ice cream social (hosted by ACM, WiCS, and UPE) will be this **Wednesday, September 9 from 1:30 PM - 3:00 PM** at the **Science Complex fountain area**.
-
-Since this intersects with our 2:30 PM meeting time, we won't be holding a formal meeting this week. See you all at the Science Complex!
+The next ACM meeting will be on Wednesday 9/16 in the Mac Lab (Forcina 403) from 2:30 - 3:30 pm.  The meeting agenda can be found [here](https://github.com/tcnj-acm/tcnj-acm-knowledge-base/blob/master/meeting-materials/fall-2015/agenda-9-16-15.md). We hope to see you all there!
 
 ## Future Meetings
 
@@ -17,7 +15,7 @@ Since this intersects with our 2:30 PM meeting time, we won't be holding a forma
 ### September 30 - Guest Speaker: Daniel Domen
 *TCNJ Alumni, Adjunct CS Faculty, and Software Engineer at Ericsson*
 
-Professor Domen will be speaking about his experiences in industry, what he did wrong and right, and how learning in the classroom id different from learning in industry.
+Professor Domen will be speaking about his experiences in industry, what he did wrong and right, and how learning in the classroom is different from learning in industry.
 
 ## Contributions
 
