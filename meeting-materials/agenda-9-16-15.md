@@ -14,4 +14,3 @@
 
 ## GitHub Account Setup
 - Go to www.github.com
-- Click Sign Up
