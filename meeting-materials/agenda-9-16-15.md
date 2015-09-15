@@ -13,4 +13,5 @@
 - Useful Git commands
 
 ## GitHub Account Setup
-- Create a GitHub account
+- Go to www.github.com
+- Click Sign Up
