@@ -6,16 +6,7 @@ This semester, meetings will be held every **Wednesday from 2:30 to 3:30** in **
 
 ## This Week's Meeting
 
-The next ACM meeting will be on Wednesday 9/16 in the Mac Lab (Forcina 403) from 2:30 - 3:30 pm.  The meeting agenda can be found [here](https://github.com/tcnj-acm/tcnj-acm-knowledge-base/blob/master/meeting-materials/fall-2015/agenda-9-16-15.md). We hope to see you all there!
-
-## Future Meetings
-
-### September 23 - TBD
-
-### September 30 - Guest Speaker: Daniel Domen
-*TCNJ Alumni, Adjunct CS Faculty, and Software Engineer at Ericsson*
-
-Professor Domen will be speaking about his experiences in industry, what he did wrong and right, and how learning in the classroom is different from learning in industry.
+The next ACM meeting will be on Wednesday 9/30 in Forcina 408 from 2:30 - 3:30 pm. Adjunct Faculty Daniel Domen (TCNJ Alumnus and Software Engineer at Ericsson) will be speaking about his experiences in industry, what he did right and wrong, and how learning in the classroom is different from learning in industry.
 
 ## Contributions
 
