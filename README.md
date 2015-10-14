@@ -6,7 +6,7 @@ This semester, meetings will be held every **Wednesday from 2:30 to 3:30** in **
 
 ## This Week's Meeting
 
-The ACM meeting tomorrow will take place in the Mac Lab (Forcina 403) at 2:30 PM. We'll be talking about what the e-board is doing to kick off the planning for HackTCNJ and how you all can get involved. If you're interested in volunteering to help at the event or with any planning, definitely make sure to attend.
+The ACM meeting tomorrow will take place in the **Mac Lab (Forcina 403) at 2:30 PM**. We'll be talking about what the e-board is doing to kick off the planning for HackTCNJ and how you all can get involved. If you're interested in volunteering to help at the event or with any planning, definitely make sure to attend.
 
 ## Contributions
 
