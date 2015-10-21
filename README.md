@@ -6,7 +6,7 @@ This semester, meetings will be held every **Wednesday from 2:30 to 3:30** in **
 
 ## This Week's Meeting
 
-The ACM meeting tomorrow will take place in the **Mac Lab (Forcina 403) at 2:30 PM**. We'll be talking about what the e-board is doing to kick off the planning for HackTCNJ and how you all can get involved. If you're interested in volunteering to help at the event or with any planning, definitely make sure to attend.
+The ACM meeting will take place on **Wednesday, October 21** in the **Mac Lab (Forcina 403) at 2:30 PM**. Andrew will be talking about compiler optimization, the Java virtual machine, interpretation vs. compilation, and just-in-time compilers. If you want to learn how to make your code faster without changing it this is the stuff you'll need to know!
 
 ## Contributions
 
